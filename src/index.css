@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-size: 100%;
+    margin: 5rem 30%;
+    font-weight: 600;
+    background-color: rgb(120, 124, 128);
+  }
+}
